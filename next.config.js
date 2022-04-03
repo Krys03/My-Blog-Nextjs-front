@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ['localhost'],
+    domains: ['blog-strapi-back.herokuapp.com'],
   },
 }
